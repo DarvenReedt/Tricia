@@ -11,5 +11,7 @@ So i don't try to do this, it is more a playing with the Blender programm and lo
 The second part is for the first tries of the objects in Blender files.
 
 Darven Reedt
+
+P.S.: Please, excused my bad english and an mistakes in this readme-file. i was too foolish at school especialy in languages.
   
   
